@@ -50,4 +50,4 @@ Daniel Mendler
 LICENSE
 =======
 
-GPLv2
+GPL-2.0
