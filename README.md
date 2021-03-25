@@ -1,3 +1,12 @@
+This is a GPL-2.0 version of mimemagic pinned to 0.3.6.
+
+0.3.6 was yanked to switch back to MIT license and now requires installing the mime database
+provided by freedesktop.org separately (see: https://github.com/mimemagicrb/mimemagic#dependencies).
+
+See: https://github.com/mimemagicrb/mimemagic/issues/98 and https://github.com/rails/rails/issues/41750 for background.
+
+---
+
 MimeMagic is a library to detect the mime type of a file by extension or by content. It uses the mime database
 provided by freedesktop.org (see http://freedesktop.org/wiki/Software/shared-mime-info/).
 

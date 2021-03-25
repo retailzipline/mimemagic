@@ -14,6 +14,10 @@ None
 
 None
 
+## 0.3.6 (2020-05-25)
+
+Switch to GPL-v2 license.
+
 ## 0.3.5 (2020-05-04)
 
 Mimetype extensions are now ordered by freedesktop.org's priority
